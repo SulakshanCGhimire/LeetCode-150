@@ -45,8 +45,6 @@ This repository serves as:
 
 **Completed:** 0 / 150
 
-**Current Streak:** 0 Days
-
 ---
 
 ## 🛠 Repository Structure
