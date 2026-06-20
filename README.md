@@ -43,7 +43,7 @@ This repository serves as:
 
 **Target:** 150 Problems
 
-**Completed:** 0 / 150
+**Completed:** 1 / 150
 
 ---
 
@@ -68,9 +68,8 @@ leetcode-python-150/
 ├── union-find/
 ├── bit-manipulation/
 ├── math-strings/
+├── problems/
 │
-├── notes/
-├── progress.md
 └── README.md
 ```
 
@@ -93,7 +92,7 @@ Example:
 
 ```text
 Two Sum
-├── README.md
+├── notes.md
 └── solution.py
 ```
 
@@ -106,14 +105,6 @@ All solutions are implemented in:
 ```python
 Python 3
 ```
-
----
-
-## 🔥 Daily Commitment
-
-One problem.
-Every day.
-No zero days.
 
 ---
 
