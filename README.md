@@ -43,7 +43,7 @@ This repository serves as:
 
 **Target:** 150 Problems
 
-**Completed:** 4 / 150
+**Completed:** 5 / 150
 
 ---
 
@@ -92,7 +92,7 @@ Example:
 
 ```text
 Two Sum
-├── notes.md
+├── note.md
 └── solution.py
 ```
 
