@@ -43,7 +43,7 @@ This repository serves as:
 
 **Target:** 150 Problems
 
-**Completed:** 12 / 150
+**Completed:** 13 / 150
 
 ---
 
